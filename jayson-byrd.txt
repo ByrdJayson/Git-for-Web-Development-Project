@@ -27,7 +27,7 @@ https://codepen.io/jayson-byrd-ii/pen/VwWeyPx
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
 
         Classes are not unique and can be used as many times as you wish. IDs are unique selectors used only once. Classes would be used when you want multiple elements to be styled the same way, and IDs would
-        be for a unique element. IDs can also be used to navigate a page, and can be selected by JS
+        be for a unique element. IDs can also be used to navigate a page, and help elements be selected by JS
 
 
 
@@ -50,10 +50,10 @@ https://codepen.io/jayson-byrd-ii/pen/VwWeyPx
     30. How do I write a comment in CSS? /* COMMENT HERE */
     31. How do I find out what file I am in, when I am using the command line? pwd
     32. Using the command line - how do I see a list of files/folders in my current folder? ls
-    33. How do I remove a file via the command line? Why do I have to be careful with this? rm, because
+    33. How do I remove a file via the command line? Why do I have to be careful with this? rm, i believe it is permanent and immediate
     34. Why should I use version control? It is an easy way to preserve backups of code and help deploy code into projects from multiple developers
     35. How often should I commit to github? Every 20 minutes or when getting a major update working
-    36. What is the command we would use to push our repo up to github? 
+    36. What is the command we would use to push our repo up to github? git push -u origin 'firstName-lastName'
     37. Walk me through Lambda's git flow. fork, clone using ssh, create a branch using the format firstName-lastName, commit often, push to github, pull request
 
 Stretch Questions
