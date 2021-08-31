@@ -17,7 +17,7 @@ https://codepen.io/jayson-byrd-ii/pen/VwWeyPx
     12. How many times can I use the same class on a page? ∞
     13. How do I get my link to open in a new tab? _blank
     14. What is the alt attribute in the image tag used for?
-    15. How do I reference an id? #
+    15. How do I reference an id? '#'
     16. What is the difference between a section and a div
     17. What is CSS used for? CSS is used to clean and beautify HTML, or style it.
     18. How to we select an element? Example - every h2 on the page 
@@ -25,12 +25,12 @@ https://codepen.io/jayson-byrd-ii/pen/VwWeyPx
 
     }
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
-    20. How do we select classes in CSS? .
+    20. How do we select classes in CSS? "."
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
-    24. What is a pseudo selector? pseudo selectors work with states
-    25. What do we use the change the spacing between lines? line-space: x
+    24. What is a pseudo selector? 
+    25. What do we use the change the spacing between lines? line-spacing: 
     26. What do we use to change the spacing between letters?
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? Uppercase, lowercase, capitalize
     28. How do I add a 1px border around my div that is dotted and black? 
@@ -39,14 +39,14 @@ https://codepen.io/jayson-byrd-ii/pen/VwWeyPx
     }
     29. How do I select everything on the page? 
     body or :root
-    30. How do I write a comment in CSS? 
-    31. How do I find out what file I am in, when I am using the command line? 
+    30. How do I write a comment in CSS? /* COMMENT HERE */
+    31. How do I find out what file I am in, when I am using the command line? pwd
     32. Using the command line - how do I see a list of files/folders in my current folder? ls
     33. How do I remove a file via the command line? Why do I have to be careful with this? rm, because
     34. Why should I use version control? It is an easy way to preserve backups of code and help deploy code into projects from multiple developers
     35. How often should I commit to github? Every 20 minutes or when getting a major update working
     36. What is the command we would use to push our repo up to github? 
-    37. Walk me through Lambda's git flow. 
+    37. Walk me through Lambda's git flow. fork, clone using ssh, create a branch using the format firstName-lastName, commit often, push to github, pull request
 
 Stretch Questions
 
